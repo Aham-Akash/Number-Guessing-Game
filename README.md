@@ -66,15 +66,15 @@ gcc number_guessing_game.c -o number_guessing_game.exe
 number_guessing_game.exe
 ```
 ## Example Output
-Guess a number between 1 and 100:
-50
-Too low! Try again:
-75
-Too high! Try again:
-62
-Too high! Try again:
-56
-Your guess is CORRECT!!!
+Guess a number between 1 and 100:  
+50  
+Too low! Try again:  
+75  
+Too high! Try again:  
+62  
+Too high! Try again:  
+56  
+Your guess is CORRECT!!!  
 
 ## Concepts Used
 
