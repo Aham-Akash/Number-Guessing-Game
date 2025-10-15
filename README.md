@@ -65,6 +65,7 @@ gcc number_guessing_game.c -o number_guessing_game
 gcc number_guessing_game.c -o number_guessing_game.exe
 number_guessing_game.exe
 ```
+## Example Output
 Guess a number between 1 and 100:
 50
 Too low! Try again:
